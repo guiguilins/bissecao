@@ -1,0 +1,2 @@
+# bissecao
+bissecao em phyton
